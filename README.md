@@ -56,7 +56,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://i.postimg.cc/vBYFBwMr/car.png" width="100%" style="border-radius:10px;" alt="RentCars Project"/>
+        <img src="https://postimg.cc/xk4Fx7X8" width="100%" style="border-radius:10px;" alt="RentCars Project"/>
       </td>
       <td width="50%">
         <h3>🏎️ RentCars - Modern Rental Platform</h3>
