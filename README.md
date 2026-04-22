@@ -56,6 +56,54 @@
 </div>
 
 <br><br><br><br><br><br><br><br><br>
+<hr>
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+<br>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Yummy-Project/main/preview.png" width="100%" alt="Yummy Recipes Project"/>
+      </td>
+      <td width="50%">
+        <h3>🥘 Yummy Recipes App</h3>
+        <p>A comprehensive food recipe application where users can explore diverse cuisines, filter by categories, and view detailed cooking instructions.</p>
+        <p>
+          <strong>Tech Stack:</strong> 
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/APIs-FFB800?style=flat" />
+        </p>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/RECON-NAME">📂 Source Code</a> | 
+        <a href="YOUR_DEPLOYMENT_LINK">🌐 Live Demo</a>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h3>🛒 E-Commerce Cart</h3>
+        <p>Advanced shopping cart functionality featuring real-time price calculations, item management using Redux Toolkit, and Material UI design.</p>
+        <p>
+          <strong>Tech Stack:</strong> 
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
+          <img src="https://img.shields.io/badge/MUI-0081CB?style=flat&logo=mui&logoColor=white" />
+        </p>
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO-NAME">📂 Source Code</a> | 
+        <a href="YOUR_DEPLOYMENT_LINK">🌐 Live Demo</a>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Cart-Project/main/preview.png" width="100%" alt="Cart Project"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true&border_radius=10" />
@@ -63,11 +111,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Top Languages 👨‍💻</h2>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&border_radius=10&hide_border=true" />
-</div>
+
 
 <br>
 <h4 align="center">
