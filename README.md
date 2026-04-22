@@ -110,7 +110,6 @@
 <br>
 <div align="center">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=tonefarhoud3433-ai&show_icons=true&theme=react&border_radius=10&hide_border=true" />
-  <img align="right" width="48%" src="https://github-readme-streak-stats.demolab.com/?user=tonefarhoud3433-ai&theme=react&border_radius=10&hide_border=true" />
 </div>
 
 <br><br><br><br><br><br><br><br><br>
