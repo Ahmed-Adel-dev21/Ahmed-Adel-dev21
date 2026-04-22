@@ -115,6 +115,4 @@
 
 <br><br><br><br><br><br><br><br><br>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tonefarhoud3433-ai&theme=react-dark&bg_color=20232a&hide_border=true&border_radius=10" />
-</div>
+
