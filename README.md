@@ -12,9 +12,9 @@
   💻 <strong>Front-End Developer</strong> specializing in <b>React & Next.js</b><br>
   🎯 Passionate about building clean <b>UI</b> & scalable web apps<br>
   🌱 Always learning new technologies & improving my skills<br>
-  📫 Reach me: <a href="ahmedadelali0155@gmsil.com">tonefarhoud3433@gmail.com</a><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ahmed-adel-4a7b89256/">Antonios Farhood</a><br>
-  🔗 GitHub: <a href="https://github.com/Ahmed-Adel-dev21">tonefarhoud3433-ai</a>
+  📫 Reach me: <a href="ahmedadelali0155@gmsil.com">ahmedadelali0155@gmsil.com</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ahmed-adel-4a7b89256/">Ahmed Adel</a><br>
+  🔗 GitHub: <a href="https://github.com/Ahmed-Adel-dev21">AhmedAdel21</a>
 </p>
 
 <hr>
