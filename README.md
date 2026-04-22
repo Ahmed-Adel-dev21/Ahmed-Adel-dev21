@@ -12,9 +12,9 @@
   💻 <strong>Front-End Developer</strong> specializing in <b>React & Next.js</b><br>
   🎯 Passionate about building clean <b>UI</b> & scalable web apps<br>
   🌱 Always learning new technologies & improving my skills<br>
-  📫 Reach me: <a href="mailto:tonefarhoud3433@gmail.com">tonefarhoud3433@gmail.com</a><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">Antonios Farhood</a><br>
-  🔗 GitHub: <a href="https://github.com/tonefarhoud3433-ai">tonefarhoud3433-ai</a>
+  📫 Reach me: <a href="ahmedadelali0155@gmsil.com">tonefarhoud3433@gmail.com</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/ahmed-adel-4a7b89256/">Antonios Farhood</a><br>
+  🔗 GitHub: <a href="https://github.com/Ahmed-Adel-dev21">tonefarhoud3433-ai</a>
 </p>
 
 <hr>
@@ -55,10 +55,8 @@
 
   <table border="0">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://i.ibb.co/3YcG2g25/car.jpg" width="100%" style="border-radius:10px;" alt="RentCars Project"/>
-      </td>
-      <td width="50%">
+      
+      <td width="100%">
         <h3>🏎️ RentCars - Modern Rental Platform</h3>
         <p>A high-performance car rental application built with Vite and React, featuring smooth UI transitions and real-time data integration.</p>
         <ul>
