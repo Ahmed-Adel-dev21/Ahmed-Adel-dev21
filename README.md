@@ -109,20 +109,7 @@
 
 <hr>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<div align="center">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&border_radius=10&hide_border=true" />
-  <img align="right" width="48%" src="https://github-readme-streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=react&border_radius=10&hide_border=true" />
-</div>
 
-<br><br><br><br><br><br><br><br><br>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true&border_radius=10" />
-</div>
-
-<hr>
 
 
 
