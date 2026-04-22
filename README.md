@@ -55,8 +55,7 @@
 
   <table border="0">
     <tr>
-      
-      <td width="100%">
+      <td >
         <h3>🏎️ RentCars - Modern Rental Platform</h3>
         <p>A high-performance car rental application built with Vite and React, featuring smooth UI transitions and real-time data integration.</p>
         <ul>
