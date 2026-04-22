@@ -124,13 +124,5 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Top Languages 👨‍💻</h2>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&border_radius=10&hide_border=true" />
-</div>
 
-<br>
-<h4 align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">🔎 Explore All My Projects 🔍</a>
-</h4>
+
