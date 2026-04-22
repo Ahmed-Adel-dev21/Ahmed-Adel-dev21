@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tonefarhoud3433-ai.tonefarhoud3433-ai">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -6,16 +6,16 @@
   </a>
 </h1>
 
-<p align="center">
-  <strong>Frontend Developer</strong> | Building scalable, high-performance web applications with a focus on User Experience.
-  <br>
-  Specialized in modern React ecosystems, state management , and responsive designs.
-</p>
+<h2 align="left">🚀 About Me</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+<p align="left">
+  💻 <strong>Front-End Developer</strong> specializing in <b>React & Next.js</b><br>
+  🎯 Passionate about building clean <b>UI</b> & scalable web apps<br>
+  🌱 Always learning new technologies & improving my skills<br>
+  📫 Reach me: <a href="mailto:tonefarhoud3433@gmail.com">tonefarhoud3433@gmail.com</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">Antonios Farhood</a><br>
+  🔗 GitHub: <a href="https://github.com/tonefarhoud3433-ai">tonefarhoud3433-ai</a>
+</p>
 
 <hr>
 
@@ -56,7 +56,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://ibb.co/3YcG2g25" width="100%" style="border-radius:10px;" alt="RentCars Project"/>
+        <img src="https://i.ibb.co/3YcG2g25/car.jpg" width="100%" style="border-radius:10px;" alt="RentCars Project"/>
       </td>
       <td width="50%">
         <h3>🏎️ RentCars - Modern Rental Platform</h3>
@@ -109,7 +109,15 @@
 
 <hr>
 
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<div align="center">
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=tonefarhoud3433-ai&show_icons=true&theme=react&border_radius=10&hide_border=true" />
+  <img align="right" width="48%" src="https://github-readme-streak-stats.demolab.com/?user=tonefarhoud3433-ai&theme=react&border_radius=10&hide_border=true" />
+</div>
 
+<br><br><br><br><br><br><br><br><br>
 
-
-
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tonefarhoud3433-ai&theme=react-dark&bg_color=20232a&hide_border=true&border_radius=10" />
+</div>
